@@ -1,6 +1,6 @@
-# Typed Hapi Auth Bearer
+# Typed Hapi Auth Bearer Token
 
-The type definition for [`typed-hapi-auth-bearer`](https://github.com/johnbrett/hapi-auth-bearer-token).
+The type definition for [`typed-hapi-auth-bearer-token`](https://github.com/johnbrett/hapi-auth-bearer-token).
 
 # LICENSE
 
