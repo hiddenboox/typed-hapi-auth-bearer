@@ -1,5 +1,5 @@
 {
-  "name": "typed-hapi-auth-bearer",
+  "name": "hapi-auth-bearer",
   "main": "index.d.ts",
   "homepage": "https://github.com/hiddenboox/typed-hapi-auth-bearer"
 }
